@@ -1,6 +1,7 @@
 # trlogic
 
-1. docker-compose up -d 
+HOW TO INSTALL
+docker-compose up -d 
 
 application hello world: 
 http://yourip:81
