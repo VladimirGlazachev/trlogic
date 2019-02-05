@@ -54,6 +54,7 @@ services:
       - "9100:9100"
    grafana:
     image: grafana/grafana
+    user: "501"
     depends_on:
       - prometheus
     ports:
