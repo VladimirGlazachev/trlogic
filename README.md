@@ -1,8 +1,7 @@
 
 HOW TO INSTALL:
 
-chmod -R 775 grafana_data 
-docker-compose up -d
+chmod -R 775 grafana_data ; docker-compose up -d
 
 application hello world: http://yourip:81
 
