@@ -21,6 +21,8 @@ http://yourip:3000/?orgId=1  admin / admin
 
 Grafana Dashboards:
 Dashboard for Nodejs, i have prepared two test grafics, 1) from nodeexporter cpu 2) from nodejs application "used heap" 
+
+
 http://yourip:3000/d/BxXdcjlmz/dashboard-for-nodejs?orgId=1
 CPU is execeuted through function "irate"
 
