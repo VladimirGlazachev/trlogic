@@ -1,4 +1,4 @@
-#trlogic
+
 HOW TO INSTALL:
 
 docker-compose up -d
