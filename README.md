@@ -1,6 +1,7 @@
 # trlogic
 
-HOW TO INSTALL
+HOW TO INSTALL:
+
 docker-compose up -d 
 
 application hello world: 
